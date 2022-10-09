@@ -9,4 +9,4 @@ var fourthName = prompt("Sizga IT sohasi yoqadimi?")
 console.log(fourthName);
 var fifthName = prompt("Savollarimiz sizga yoqdimi?");
 console.log(fifthName);
-alert("Qatnashganizdan xursandmiz🙂, Savollarimizga javob berganizga raxmat🙃");
+alert("Qatnashganizdan xursandmiz🙂, Savollarimizga javob berganiz uchun raxmat🙃");
